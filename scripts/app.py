@@ -15,14 +15,14 @@ st.set_page_config(
 )
 
 # Carregamento dos dados
-df_ads = carregar_dados("../data/tratados/metaads_data.csv")
-df_crm = carregar_dados("../data/tratados/crm_sales_data.csv")
+df_ads = carregar_dados("data/tratados/metaads_data.csv")
+df_crm = carregar_dados("data/tratados/crm_sales_data.csv")
 
 # Tratamento de datas
 df_ads, df_crm = dp.tratar_datas_crm_ads(df_ads, df_crm)
 
 # Layout - Logo na sidebar
-image = Image.open("../img/logo.png")
+image = Image.open("img/logo.png")
 st.sidebar.image(image, width=150)
 
 # ========================================== FILTROS ============================================================================
