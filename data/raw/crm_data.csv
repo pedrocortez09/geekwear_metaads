@@ -1,0 +1,301 @@
+,lead_id,nome,email,telefone,data_captura,campanha_origem,ad_clicked,canal_origem,etapa_funil,ultima_interacao,status,pontuacao
+0,lead_1,Dr. Thomas Fogaça,dr..thomas.fogaca@email.com,+55 11 5191 4116,2025-04-27,Camisetas Filmes,Video 3,Facebook,Comprou,2025-04-27,Ganhou,81
+1,lead_2,Valentim Garcia,valentim.garcia@email.com,+55 (084) 0820 4459,2025-04-21,Camisetas Filmes,Video 1,Google,Visita,2025-04-24,Novo,23
+2,lead_3,Maria Flor Macedo,maria.flor.macedo@email.com,+55 61 3923-5957,2025-04-24,Camisetas Filmes,Imagem 1,Instagram,Checkout,2025-04-27,Perdido,77
+3,lead_4,Cauê Camargo,caue.camargo@email.com,11 9134-0386,2025-03-31,Camisetas Filmes,Video 3,Google,Visita,2025-04-07,Perdido,24
+4,lead_5,Daniela Mendes,daniela.mendes@email.com,+55 41 8515 3767,2025-04-09,Camisetas Series,Video 2,Tráfego Direto,Visita,2025-04-11,Novo,10
+5,lead_6,Josué da Luz,josue.da.luz@email.com,81 7287-7016,2025-03-27,Camisetas Filmes,Video 3,Instagram,Visita,2025-03-31,Novo,31
+6,lead_7,Srta. Maria Eduarda Leão,srta..maria.eduarda.leao@email.com,+55 51 5647 2883,2025-04-21,Blusas Inverno,Carrossel 1,Facebook,Visita,2025-04-26,Novo,23
+7,lead_8,Ana Laura Aragão,ana.laura.aragao@email.com,+55 (051) 6179-6547,2025-03-22,Camisetas Filmes,Video 1,Instagram,Visita,2025-03-28,Novo,15
+8,lead_9,Dr. Danilo Araújo,dr..danilo.araujo@email.com,+55 (061) 3120-5381,2025-03-12,Camisetas Filmes,Video 1,Facebook,Checkout,2025-03-17,Em negociação,71
+9,lead_10,Vitor da Costa,vitor.da.costa@email.com,0800 101 4453,2025-04-05,Camisetas Series,Video 2,Facebook,Carrinho,2025-04-12,Em negociação,42
+10,lead_11,Josué Machado,josue.machado@email.com,(084) 2215 7573,2025-04-28,Camisetas Filmes,Video 1,Google,Visita,2025-04-29,Novo,34
+11,lead_12,Sra. Laís Silveira,sra..lais.silveira@email.com,61 5544 4920,2025-04-15,Camisetas Series,Video 2,Tráfego Direto,Comprou,2025-04-24,Ganhou,100
+12,lead_13,Arthur Miguel Câmara,arthur.miguel.camara@email.com,+55 (011) 6202 8023,2025-04-08,Camisetas Series,Imagem 3,Facebook,Visita,2025-04-11,Novo,46
+13,lead_14,Srta. Eduarda da Paz,srta..eduarda.da.paz@email.com,21 3533 5903,2025-03-21,Camisetas Filmes,Video 1,Facebook,Visita,2025-03-31,Novo,12
+14,lead_15,Maria Sophia da Mota,maria.sophia.da.mota@email.com,(021) 0021 4310,2025-03-23,Camisetas Series,Imagem 2,Instagram,Comprou,2025-03-24,Ganhou,89
+15,lead_16,Cecília Souza,cecilia.souza@email.com,(084) 0371 9022,2025-04-25,Camisetas Series,Imagem 2,Google,Visita,2025-05-01,Novo,16
+16,lead_17,Leonardo Macedo,leonardo.macedo@email.com,(071) 7535 4213,2025-03-28,Camisetas Series,Video 2,Facebook,Visita,2025-04-07,Perdido,39
+17,lead_18,Larissa Castro,larissa.castro@email.com,0500 915 6205,2025-04-28,Camisetas Series,Imagem 3,Google,Comprou,2025-05-03,Em negociação,85
+18,lead_19,Mathias Borges,mathias.borges@email.com,31 1356 1830,2025-04-01,Camisetas Series,Imagem 3,Google,Comprou,2025-04-11,Ganhou,86
+19,lead_20,Dr. Gabriel Rezende,dr..gabriel.rezende@email.com,(011) 7792-7087,2025-04-12,Camisetas Series,Video 2,Instagram,Visita,2025-04-22,Novo,54
+20,lead_21,Anna Liz Jesus,anna.liz.jesus@email.com,+55 41 7300-0022,2025-03-27,Camisetas Filmes,Video 1,Facebook,Visita,2025-04-06,Perdido,48
+21,lead_22,Luara das Neves,luara.das.neves@email.com,+55 (051) 7839-5897,2025-03-24,Blusas Inverno,Carrossel 1,Facebook,Visita,2025-03-27,Novo,44
+22,lead_23,Sra. Isis Martins,sra..isis.martins@email.com,+55 81 4262-6234,2025-03-22,Blusas Inverno,Carrossel 1,Instagram,Checkout,2025-03-28,Em negociação,74
+23,lead_24,Maria Júlia Macedo,maria.julia.macedo@email.com,11 0130 2381,2025-03-25,Camisetas Series,Video 2,Email,Checkout,2025-04-04,Em negociação,89
+24,lead_25,Ravy Sales,ravy.sales@email.com,+55 (021) 8082 2231,2025-04-22,Camisetas Series,Imagem 2,Instagram,Checkout,2025-04-27,Perdido,81
+25,lead_26,Sara Melo,sara.melo@email.com,+55 21 3057 9662,2025-04-16,Camisetas Filmes,Imagem 1,Google,Checkout,2025-04-16,Em negociação,67
+26,lead_27,Maria Luiza Barbosa,maria.luiza.barbosa@email.com,11 6830-1250,2025-03-30,Camisetas Series,Imagem 3,Facebook,Visita,2025-04-03,Perdido,35
+27,lead_28,Thiago Leão,thiago.leao@email.com,51 3272 2151,2025-04-19,Camisetas Filmes,Video 1,Google,Visita,2025-04-28,Novo,23
+28,lead_29,Maria Vitória Barbosa,maria.vitoria.barbosa@email.com,+55 71 8507 6845,2025-04-28,Camisetas Series,Imagem 3,Facebook,Visita,2025-05-08,Perdido,23
+29,lead_30,Yuri Rezende,yuri.rezende@email.com,+55 (084) 3117-1547,2025-03-19,Camisetas Filmes,Carrossel 2,Google,Checkout,2025-03-29,Em negociação,72
+30,lead_31,Carlos Eduardo Novais,carlos.eduardo.novais@email.com,+55 (031) 3628 6930,2025-04-26,Camisetas Filmes,Carrossel 2,Instagram,Checkout,2025-04-30,Perdido,64
+31,lead_32,Maria Flor da Luz,maria.flor.da.luz@email.com,+55 (071) 6049 7294,2025-04-21,Blusas Inverno,Carrossel 1,Google,Checkout,2025-04-29,Em negociação,67
+32,lead_33,Dr. João Felipe Lopes,dr..joao.felipe.lopes@email.com,(041) 8411-2123,2025-03-23,Camisetas Series,Video 2,Facebook,Carrinho,2025-03-29,Em negociação,77
+33,lead_34,Heitor Moreira,heitor.moreira@email.com,31 8347-6284,2025-03-07,Camisetas Filmes,Video 3,Instagram,Visita,2025-03-10,Novo,33
+34,lead_35,Mathias Ribeiro,mathias.ribeiro@email.com,+55 (071) 3863 0643,2025-03-13,Blusas Inverno,Carrossel 1,Facebook,Carrinho,2025-03-20,Perdido,72
+35,lead_36,Paulo Silva,paulo.silva@email.com,+55 (061) 8990-1069,2025-03-12,Camisetas Filmes,Video 1,Instagram,Carrinho,2025-03-13,Perdido,43
+36,lead_37,Gustavo Jesus,gustavo.jesus@email.com,(011) 5351 8149,2025-03-31,Blusas Inverno,Carrossel 1,Instagram,Visita,2025-04-02,Novo,50
+37,lead_38,Renan Sales,renan.sales@email.com,(051) 2236 7344,2025-04-14,Camisetas Filmes,Video 3,Instagram,Comprou,2025-04-15,Ganhou,99
+38,lead_39,Dr. Luiz Fernando Souza,dr..luiz.fernando.souza@email.com,+55 41 8741-6742,2025-03-25,Camisetas Filmes,Video 3,Google,Checkout,2025-04-03,Perdido,72
+39,lead_40,Sophie Moreira,sophie.moreira@email.com,+55 51 2341 3128,2025-04-15,Camisetas Filmes,Carrossel 2,Instagram,Checkout,2025-04-19,Em negociação,76
+40,lead_41,Camila Sá,camila.sa@email.com,+55 (051) 9136-5727,2025-04-11,Camisetas Filmes,Imagem 1,Tráfego Direto,Checkout,2025-04-12,Em negociação,81
+41,lead_42,Igor Siqueira,igor.siqueira@email.com,(081) 7965 4398,2025-04-11,Camisetas Series,Video 2,Instagram,Visita,2025-04-21,Novo,59
+42,lead_43,Brayan Ribeiro,brayan.ribeiro@email.com,+55 41 1502 2105,2025-04-14,Camisetas Series,Imagem 3,Tráfego Direto,Checkout,2025-04-18,Em negociação,63
+43,lead_44,Valentim Cunha,valentim.cunha@email.com,+55 (031) 2925 5670,2025-04-09,Camisetas Filmes,Video 3,Facebook,Carrinho,2025-04-16,Em negociação,50
+44,lead_45,Hadassa Fernandes,hadassa.fernandes@email.com,+55 21 2947 5609,2025-03-17,Camisetas Filmes,Imagem 1,Instagram,Visita,2025-03-21,Perdido,56
+45,lead_46,Vitória Aragão,vitoria.aragao@email.com,(011) 2760 6993,2025-03-05,Blusas Inverno,Carrossel 1,Facebook,Carrinho,2025-03-06,Perdido,72
+46,lead_47,Théo Monteiro,theo.monteiro@email.com,0900 765 9663,2025-03-21,Camisetas Series,Video 2,Facebook,Comprou,2025-03-29,Em negociação,100
+47,lead_48,Sarah Carvalho,sarah.carvalho@email.com,(031) 7175 8938,2025-03-08,Camisetas Series,Imagem 2,Instagram,Carrinho,2025-03-13,Em negociação,49
+48,lead_49,Matheus Castro,matheus.castro@email.com,+55 (071) 3986-7681,2025-03-07,Blusas Inverno,Carrossel 1,Instagram,Visita,2025-03-15,Novo,44
+49,lead_50,Maitê Silva,maite.silva@email.com,+55 84 0295 2564,2025-04-12,Camisetas Filmes,Imagem 1,Facebook,Visita,2025-04-17,Novo,48
+50,lead_51,Alícia Azevedo,alicia.azevedo@email.com,84 5558-0279,2025-03-16,Camisetas Filmes,Carrossel 2,Tráfego Direto,Visita,2025-03-17,Novo,11
+51,lead_52,Beatriz Montenegro,beatriz.montenegro@email.com,61 3124 6703,2025-03-28,Camisetas Series,Imagem 3,Facebook,Comprou,2025-03-31,Ganhou,89
+52,lead_53,Caroline Mendonça,caroline.mendonca@email.com,0900-007-4737,2025-03-24,Camisetas Filmes,Imagem 1,Google,Checkout,2025-04-02,Em negociação,67
+53,lead_54,Mathias Dias,mathias.dias@email.com,+55 81 2392 4804,2025-03-22,Camisetas Filmes,Video 1,Google,Visita,2025-03-29,Novo,15
+54,lead_55,Carlos Eduardo Silva,carlos.eduardo.silva@email.com,84 8155-5432,2025-03-02,Camisetas Filmes,Video 1,Google,Carrinho,2025-03-04,Em negociação,74
+55,lead_56,Alice Novaes,alice.novaes@email.com,(081) 0672 2305,2025-04-24,Blusas Inverno,Carrossel 1,Tráfego Direto,Visita,2025-05-01,Novo,52
+56,lead_57,Srta. Ana Beatriz Pimenta,srta..ana.beatriz.pimenta@email.com,+55 (061) 7427 2478,2025-04-02,Blusas Inverno,Carrossel 1,Instagram,Carrinho,2025-04-10,Perdido,56
+57,lead_58,Ravi Andrade,ravi.andrade@email.com,+55 21 3845-1821,2025-03-04,Camisetas Filmes,Video 3,Instagram,Carrinho,2025-03-12,Em negociação,53
+58,lead_59,Theo Carvalho,theo.carvalho@email.com,(021) 8706 2533,2025-04-02,Camisetas Series,Imagem 2,Google,Visita,2025-04-06,Novo,55
+59,lead_60,Maria Júlia Aragão,maria.julia.aragao@email.com,+55 (081) 3044-4550,2025-04-13,Camisetas Filmes,Video 3,Facebook,Comprou,2025-04-18,Ganhou,100
+60,lead_61,Srta. Lorena Fernandes,srta..lorena.fernandes@email.com,+55 31 3238 3597,2025-03-21,Camisetas Filmes,Carrossel 2,Facebook,Visita,2025-03-28,Perdido,43
+61,lead_62,Mirella Ramos,mirella.ramos@email.com,+55 (081) 2823-7692,2025-04-16,Camisetas Filmes,Video 1,Tráfego Direto,Visita,2025-04-19,Novo,25
+62,lead_63,Sra. Ana Campos,sra..ana.campos@email.com,+55 (081) 1524 6541,2025-03-27,Camisetas Filmes,Video 1,Tráfego Direto,Carrinho,2025-03-27,Em negociação,61
+63,lead_64,Isaque das Neves,isaque.das.neves@email.com,+55 61 1190 3725,2025-03-10,Camisetas Series,Imagem 2,Instagram,Visita,2025-03-13,Perdido,47
+64,lead_65,Francisco Cassiano,francisco.cassiano@email.com,0800-318-5353,2025-03-03,Camisetas Filmes,Imagem 1,Tráfego Direto,Carrinho,2025-03-13,Em negociação,44
+65,lead_66,Sra. Rebeca Cunha,sra..rebeca.cunha@email.com,84 8671-1868,2025-03-31,Camisetas Filmes,Imagem 1,Facebook,Checkout,2025-04-01,Perdido,67
+66,lead_67,Apollo Lopes,apollo.lopes@email.com,84 8277-3319,2025-04-27,Camisetas Filmes,Imagem 1,Tráfego Direto,Checkout,2025-05-02,Perdido,87
+67,lead_68,Guilherme Lopes,guilherme.lopes@email.com,+55 51 8189 7992,2025-04-18,Camisetas Filmes,Video 1,Instagram,Visita,2025-04-21,Perdido,42
+68,lead_69,Danilo Silveira,danilo.silveira@email.com,0800 447 9939,2025-04-07,Camisetas Series,Video 2,Google,Visita,2025-04-14,Novo,52
+69,lead_70,Dante Melo,dante.melo@email.com,(071) 0766 5262,2025-03-01,Camisetas Series,Imagem 2,Google,Visita,2025-03-03,Novo,44
+70,lead_71,Sabrina Souza,sabrina.souza@email.com,41 1295-8501,2025-04-18,Camisetas Filmes,Carrossel 2,Facebook,Carrinho,2025-04-25,Perdido,55
+71,lead_72,Leonardo da Rosa,leonardo.da.rosa@email.com,81 4921-0696,2025-04-17,Camisetas Filmes,Video 3,Instagram,Checkout,2025-04-18,Em negociação,66
+72,lead_73,Erick Sá,erick.sa@email.com,+55 (031) 9148-3568,2025-03-08,Camisetas Filmes,Video 1,Facebook,Checkout,2025-03-14,Perdido,81
+73,lead_74,Dr. Benjamin Souza,dr..benjamin.souza@email.com,51 6286 5587,2025-04-07,Camisetas Series,Imagem 3,Tráfego Direto,Carrinho,2025-04-13,Em negociação,67
+74,lead_75,Anthony Sales,anthony.sales@email.com,+55 81 0519 2957,2025-04-28,Camisetas Filmes,Carrossel 2,Instagram,Visita,2025-04-28,Novo,56
+75,lead_76,Henry Cavalcante,henry.cavalcante@email.com,+55 84 3867-3283,2025-04-13,Camisetas Filmes,Video 1,Instagram,Comprou,2025-04-19,Ganhou,81
+76,lead_77,Sra. Maria Alice Costela,sra..maria.alice.costela@email.com,+55 (041) 7433-8494,2025-03-03,Camisetas Series,Imagem 3,Tráfego Direto,Carrinho,2025-03-06,Perdido,46
+77,lead_78,Vitor Porto,vitor.porto@email.com,(071) 8426 6210,2025-03-22,Camisetas Series,Imagem 2,Facebook,Carrinho,2025-03-30,Em negociação,52
+78,lead_79,Enzo Novais,enzo.novais@email.com,+55 (061) 0121-2023,2025-03-16,Camisetas Filmes,Carrossel 2,Instagram,Checkout,2025-03-22,Em negociação,64
+79,lead_80,Fernanda Costela,fernanda.costela@email.com,+55 71 4292 9796,2025-03-25,Blusas Inverno,Carrossel 1,Instagram,Carrinho,2025-04-01,Em negociação,57
+80,lead_81,Vitor Nunes,vitor.nunes@email.com,(071) 1625-5265,2025-04-24,Camisetas Series,Imagem 2,Tráfego Direto,Comprou,2025-05-01,Em negociação,82
+81,lead_82,Melina Moreira,melina.moreira@email.com,(011) 7727 4133,2025-03-11,Camisetas Filmes,Video 1,Facebook,Visita,2025-03-21,Perdido,13
+82,lead_83,João Vitor Vasconcelos,joao.vitor.vasconcelos@email.com,(031) 0158-3482,2025-02-28,Camisetas Filmes,Imagem 1,Facebook,Comprou,2025-03-03,Em negociação,82
+83,lead_84,Apollo Vieira,apollo.vieira@email.com,(071) 5864 9131,2025-04-18,Blusas Inverno,Carrossel 1,Tráfego Direto,Visita,2025-04-25,Novo,36
+84,lead_85,Lorenzo Brito,lorenzo.brito@email.com,+55 21 2274 5746,2025-04-20,Camisetas Filmes,Carrossel 2,Tráfego Direto,Visita,2025-04-26,Novo,23
+85,lead_86,Emanuel Castro,emanuel.castro@email.com,+55 (071) 3554-5616,2025-03-28,Camisetas Filmes,Imagem 1,Google,Comprou,2025-04-03,Ganhou,85
+86,lead_87,Sr. Antony Azevedo,sr..antony.azevedo@email.com,(061) 1824 9054,2025-04-13,Camisetas Filmes,Imagem 1,Google,Visita,2025-04-17,Novo,34
+87,lead_88,Anthony Monteiro,anthony.monteiro@email.com,+55 11 4162-4430,2025-04-15,Camisetas Filmes,Carrossel 2,Email,Visita,2025-04-21,Novo,28
+88,lead_89,Diogo Lima,diogo.lima@email.com,+55 (084) 6483-1214,2025-04-18,Camisetas Filmes,Carrossel 2,Tráfego Direto,Checkout,2025-04-21,Perdido,64
+89,lead_90,Pedro Cassiano,pedro.cassiano@email.com,41 8656 9714,2025-03-10,Camisetas Series,Video 2,Google,Visita,2025-03-10,Novo,23
+90,lead_91,Dr. Davi Porto,dr..davi.porto@email.com,+55 (061) 7084-4931,2025-03-08,Camisetas Filmes,Imagem 1,Tráfego Direto,Checkout,2025-03-13,Perdido,83
+91,lead_92,Julia da Costa,julia.da.costa@email.com,11 0492 1968,2025-03-08,Camisetas Filmes,Imagem 1,Tráfego Direto,Carrinho,2025-03-17,Em negociação,43
+92,lead_93,Maysa Siqueira,maysa.siqueira@email.com,0500 884 8975,2025-03-07,Camisetas Filmes,Carrossel 2,Google,Carrinho,2025-03-15,Perdido,72
+93,lead_94,Vitória Siqueira,vitoria.siqueira@email.com,+55 (051) 9434 6335,2025-04-16,Blusas Inverno,Carrossel 1,Google,Checkout,2025-04-24,Em negociação,61
+94,lead_95,Dr. Pietro Rios,dr..pietro.rios@email.com,+55 (071) 8403 9290,2025-03-05,Camisetas Filmes,Video 1,Facebook,Visita,2025-03-06,Novo,21
+95,lead_96,Luísa Vieira,luisa.vieira@email.com,+55 31 8641-7590,2025-04-17,Camisetas Filmes,Video 1,Instagram,Carrinho,2025-04-23,Em negociação,55
+96,lead_97,Maria Fernanda da Rocha,maria.fernanda.da.rocha@email.com,(031) 1298-3692,2025-03-06,Camisetas Filmes,Video 1,Instagram,Carrinho,2025-03-09,Em negociação,76
+97,lead_98,Sr. Vinícius Carvalho,sr..vinicius.carvalho@email.com,41 7769-1129,2025-04-03,Camisetas Filmes,Imagem 1,Instagram,Checkout,2025-04-04,Em negociação,79
+98,lead_99,Larissa Melo,larissa.melo@email.com,+55 51 6249 9708,2025-03-31,Camisetas Filmes,Video 3,Instagram,Carrinho,2025-04-09,Perdido,77
+99,lead_100,Kaique Sousa,kaique.sousa@email.com,0800 236 8544,2025-03-14,Camisetas Series,Imagem 3,Instagram,Carrinho,2025-03-17,Em negociação,56
+100,lead_101,Davi Fernandes,davi.fernandes@email.com,11 9248 6176,2025-03-25,Camisetas Series,Imagem 3,Instagram,Carrinho,2025-03-29,Em negociação,55
+101,lead_102,Yuri Fogaça,yuri.fogaca@email.com,+55 (081) 6442 3870,2025-02-28,Camisetas Filmes,Video 3,Google,Checkout,2025-03-10,Perdido,64
+102,lead_103,Gael Henrique Novais,gael.henrique.novais@email.com,0800 325 3987,2025-03-14,Camisetas Series,Video 2,Facebook,Visita,2025-03-19,Perdido,39
+103,lead_104,Elisa Cavalcanti,elisa.cavalcanti@email.com,+55 (011) 7359 9296,2025-04-01,Camisetas Filmes,Video 1,Instagram,Carrinho,2025-04-08,Em negociação,40
+104,lead_105,Luana Martins,luana.martins@email.com,+55 (021) 3516-9104,2025-03-03,Camisetas Filmes,Video 1,Instagram,Comprou,2025-03-11,Ganhou,82
+105,lead_106,Thales Costa,thales.costa@email.com,(021) 9482-3200,2025-04-18,Camisetas Series,Imagem 2,Google,Carrinho,2025-04-22,Em negociação,72
+106,lead_107,Milena Teixeira,milena.teixeira@email.com,(061) 9918-7502,2025-04-14,Blusas Inverno,Carrossel 1,Instagram,Visita,2025-04-15,Novo,32
+107,lead_108,Evelyn Moura,evelyn.moura@email.com,+55 (021) 9831-5123,2025-03-28,Camisetas Series,Imagem 2,Google,Carrinho,2025-04-01,Em negociação,63
+108,lead_109,Ana Clara Pastor,ana.clara.pastor@email.com,61 2625 0234,2025-04-16,Blusas Inverno,Carrossel 1,Email,Checkout,2025-04-24,Em negociação,74
+109,lead_110,Srta. Maria Julia Sá,srta..maria.julia.sa@email.com,(081) 3420-5879,2025-03-17,Camisetas Series,Video 2,Google,Carrinho,2025-03-27,Em negociação,79
+110,lead_111,Vitor da Costa,vitor.da.costa@email.com,+55 (011) 8029-5211,2025-04-04,Camisetas Filmes,Imagem 1,Facebook,Checkout,2025-04-12,Em negociação,81
+111,lead_112,Srta. Catarina Aragão,srta..catarina.aragao@email.com,+55 84 9115 4329,2025-03-29,Camisetas Series,Video 2,Instagram,Visita,2025-03-30,Novo,52
+112,lead_113,Giovanna Mendonça,giovanna.mendonca@email.com,21 4762-1314,2025-04-12,Blusas Inverno,Carrossel 1,Tráfego Direto,Checkout,2025-04-13,Em negociação,68
+113,lead_114,Davi Pimenta,davi.pimenta@email.com,+55 81 3842-1190,2025-04-24,Camisetas Filmes,Video 1,Instagram,Carrinho,2025-04-26,Em negociação,75
+114,lead_115,Bella Pastor,bella.pastor@email.com,31 7961 6936,2025-03-25,Camisetas Series,Video 2,Instagram,Carrinho,2025-04-03,Em negociação,58
+115,lead_116,Ana Julia Souza,ana.julia.souza@email.com,(081) 4187 9438,2025-03-21,Camisetas Series,Imagem 2,Google,Carrinho,2025-03-24,Em negociação,61
+116,lead_117,Isadora Moura,isadora.moura@email.com,+55 (021) 9148 7316,2025-03-11,Camisetas Series,Video 2,Facebook,Carrinho,2025-03-18,Em negociação,72
+117,lead_118,Srta. Lunna Abreu,srta..lunna.abreu@email.com,81 0368-4689,2025-04-28,Camisetas Series,Video 2,Tráfego Direto,Carrinho,2025-04-29,Em negociação,43
+118,lead_119,Lavínia da Mata,lavinia.da.mata@email.com,+55 71 5705-4465,2025-03-10,Camisetas Filmes,Video 3,Instagram,Carrinho,2025-03-10,Em negociação,57
+119,lead_120,Luiz Miguel Guerra,luiz.miguel.guerra@email.com,(071) 4448 5078,2025-03-18,Camisetas Filmes,Imagem 1,Google,Comprou,2025-03-20,Ganhou,90
+120,lead_121,Helena Moura,helena.moura@email.com,+55 (041) 7617-5017,2025-03-30,Camisetas Series,Video 2,Facebook,Carrinho,2025-04-06,Em negociação,50
+121,lead_122,Laís Aparecida,lais.aparecida@email.com,84 0709 6269,2025-04-20,Camisetas Filmes,Video 3,Facebook,Comprou,2025-04-20,Ganhou,97
+122,lead_123,Sr. Liam Correia,sr..liam.correia@email.com,+55 (041) 1777-8456,2025-03-11,Camisetas Filmes,Video 1,Email,Comprou,2025-03-13,Ganhou,82
+123,lead_124,Miguel Cirino,miguel.cirino@email.com,+55 (084) 3757-0199,2025-04-13,Camisetas Filmes,Imagem 1,Instagram,Visita,2025-04-22,Novo,33
+124,lead_125,Lucas Gabriel Farias,lucas.gabriel.farias@email.com,(041) 0540-2735,2025-03-30,Blusas Inverno,Carrossel 1,Instagram,Carrinho,2025-04-01,Em negociação,67
+125,lead_126,Sr. José Andrade,sr..jose.andrade@email.com,84 9770 8452,2025-04-06,Camisetas Filmes,Imagem 1,Facebook,Checkout,2025-04-11,Em negociação,69
+126,lead_127,Sr. Kaique Brito,sr..kaique.brito@email.com,(071) 3139-7192,2025-04-17,Camisetas Filmes,Imagem 1,Tráfego Direto,Visita,2025-04-20,Novo,32
+127,lead_128,Vitor Sales,vitor.sales@email.com,(031) 7786 6426,2025-03-24,Camisetas Series,Imagem 2,Google,Carrinho,2025-03-29,Perdido,46
+128,lead_129,Diego Aparecida,diego.aparecida@email.com,(081) 7892-8724,2025-03-01,Camisetas Filmes,Video 3,Google,Checkout,2025-03-03,Em negociação,79
+129,lead_130,Noah Pereira,noah.pereira@email.com,84 0612-1317,2025-03-12,Camisetas Series,Imagem 2,Instagram,Checkout,2025-03-14,Perdido,87
+130,lead_131,Miguel Santos,miguel.santos@email.com,+55 (084) 5656-0897,2025-03-25,Blusas Inverno,Carrossel 1,Email,Carrinho,2025-03-25,Em negociação,66
+131,lead_132,João Miguel Marques,joao.miguel.marques@email.com,+55 11 6144-7216,2025-03-30,Blusas Inverno,Carrossel 1,Google,Visita,2025-04-04,Perdido,57
+132,lead_133,Maria Júlia Mendes,maria.julia.mendes@email.com,+55 (031) 5754 4567,2025-03-24,Camisetas Filmes,Video 3,Tráfego Direto,Carrinho,2025-03-28,Perdido,55
+133,lead_134,Stephany Martins,stephany.martins@email.com,81 5603-1277,2025-04-08,Blusas Inverno,Carrossel 1,Google,Visita,2025-04-09,Perdido,60
+134,lead_135,Theodoro Porto,theodoro.porto@email.com,+55 84 4758-5569,2025-04-25,Camisetas Filmes,Video 3,Facebook,Checkout,2025-04-25,Em negociação,87
+135,lead_136,Sra. Lara Peixoto,sra..lara.peixoto@email.com,51 3850 4266,2025-03-16,Camisetas Filmes,Carrossel 2,Tráfego Direto,Visita,2025-03-19,Novo,24
+136,lead_137,Emanuel Rezende,emanuel.rezende@email.com,+55 81 7000-8138,2025-04-05,Camisetas Filmes,Carrossel 2,Tráfego Direto,Visita,2025-04-09,Novo,32
+137,lead_138,Ana Cecília Siqueira,ana.cecilia.siqueira@email.com,+55 (081) 8556 5590,2025-04-22,Camisetas Series,Imagem 2,Email,Comprou,2025-04-22,Ganhou,87
+138,lead_139,Juliana da Rocha,juliana.da.rocha@email.com,+55 21 4502 5890,2025-04-09,Camisetas Series,Imagem 2,Google,Carrinho,2025-04-14,Em negociação,65
+139,lead_140,João Miguel Pires,joao.miguel.pires@email.com,11 4394-1830,2025-03-24,Camisetas Series,Video 2,Facebook,Carrinho,2025-03-28,Perdido,44
+140,lead_141,Apollo Fernandes,apollo.fernandes@email.com,0500 202 9881,2025-03-17,Camisetas Series,Imagem 3,Google,Checkout,2025-03-25,Em negociação,80
+141,lead_142,Sr. Miguel Novaes,sr..miguel.novaes@email.com,0800-154-9200,2025-04-25,Camisetas Filmes,Video 3,Facebook,Visita,2025-05-03,Novo,53
+142,lead_143,Ravy Ribeiro,ravy.ribeiro@email.com,(061) 3754-3421,2025-04-25,Camisetas Series,Imagem 3,Facebook,Checkout,2025-04-25,Em negociação,90
+143,lead_144,Benício Novais,benicio.novais@email.com,81 6336-2769,2025-03-18,Camisetas Filmes,Video 1,Instagram,Visita,2025-03-20,Perdido,26
+144,lead_145,Stephany Alves,stephany.alves@email.com,+55 (081) 9225 4171,2025-04-19,Camisetas Series,Video 2,Google,Visita,2025-04-20,Novo,12
+145,lead_146,Davi Miguel Carvalho,davi.miguel.carvalho@email.com,+55 71 5545 8400,2025-03-12,Camisetas Filmes,Video 3,Google,Visita,2025-03-17,Perdido,32
+146,lead_147,Ravi Lucca Viana,ravi.lucca.viana@email.com,21 9949-3821,2025-03-17,Camisetas Filmes,Video 3,Google,Visita,2025-03-25,Novo,48
+147,lead_148,Davi Lucas Vasconcelos,davi.lucas.vasconcelos@email.com,+55 (081) 1967 2986,2025-03-15,Camisetas Filmes,Video 1,Email,Visita,2025-03-24,Novo,34
+148,lead_149,Théo Jesus,theo.jesus@email.com,0500-886-4276,2025-03-11,Camisetas Series,Imagem 2,Tráfego Direto,Comprou,2025-03-11,Em negociação,88
+149,lead_150,Maria Isis da Rocha,maria.isis.da.rocha@email.com,+55 (061) 7380-9331,2025-03-18,Camisetas Filmes,Video 3,Google,Visita,2025-03-26,Novo,10
+150,lead_151,Ana Beatriz Abreu,ana.beatriz.abreu@email.com,+55 84 7393 7368,2025-03-04,Camisetas Series,Imagem 2,Google,Carrinho,2025-03-10,Em negociação,63
+151,lead_152,Giovanna Pimenta,giovanna.pimenta@email.com,+55 (041) 3239-9241,2025-03-10,Camisetas Filmes,Video 1,Tráfego Direto,Visita,2025-03-15,Novo,52
+152,lead_153,Dr. Henrique Mendonça,dr..henrique.mendonca@email.com,+55 81 9169 5776,2025-04-04,Camisetas Series,Imagem 3,Instagram,Carrinho,2025-04-08,Em negociação,47
+153,lead_154,Liz da Luz,liz.da.luz@email.com,51 5162 1780,2025-04-06,Camisetas Series,Video 2,Instagram,Visita,2025-04-12,Novo,52
+154,lead_155,Srta. Ana Beatriz da Mota,srta..ana.beatriz.da.mota@email.com,51 1859 2219,2025-03-14,Camisetas Series,Imagem 3,Google,Carrinho,2025-03-18,Perdido,65
+155,lead_156,Srta. Ana Fonseca,srta..ana.fonseca@email.com,61 3056 0830,2025-04-26,Blusas Inverno,Carrossel 1,Facebook,Visita,2025-05-02,Perdido,22
+156,lead_157,Mariane Cassiano,mariane.cassiano@email.com,+55 81 9243 7516,2025-03-12,Camisetas Filmes,Video 3,Instagram,Comprou,2025-03-21,Ganhou,85
+157,lead_158,Benício Azevedo,benicio.azevedo@email.com,51 3369 1607,2025-04-21,Camisetas Series,Video 2,Email,Visita,2025-04-29,Perdido,35
+158,lead_159,Augusto Aragão,augusto.aragao@email.com,0800 984 4944,2025-04-06,Camisetas Filmes,Imagem 1,Facebook,Comprou,2025-04-10,Ganhou,89
+159,lead_160,Zoe Sales,zoe.sales@email.com,(031) 3139 3671,2025-04-07,Camisetas Series,Imagem 2,Google,Comprou,2025-04-16,Ganhou,93
+160,lead_161,Luigi Vargas,luigi.vargas@email.com,0300-105-0144,2025-03-03,Camisetas Series,Imagem 3,Google,Carrinho,2025-03-10,Em negociação,69
+161,lead_162,Anna Liz Vieira,anna.liz.vieira@email.com,81 2299-7800,2025-03-30,Camisetas Filmes,Carrossel 2,Google,Carrinho,2025-04-07,Perdido,53
+162,lead_163,Maria Alice Jesus,maria.alice.jesus@email.com,+55 84 8326-3721,2025-03-13,Camisetas Filmes,Carrossel 2,Instagram,Visita,2025-03-15,Perdido,60
+163,lead_164,Antonella da Rosa,antonella.da.rosa@email.com,+55 (031) 9433-4336,2025-04-21,Camisetas Filmes,Video 1,Tráfego Direto,Carrinho,2025-04-29,Perdido,58
+164,lead_165,Breno Casa Grande,breno.casa.grande@email.com,81 4940 8756,2025-04-09,Camisetas Series,Imagem 3,Instagram,Visita,2025-04-12,Novo,15
+165,lead_166,Fernanda Vargas,fernanda.vargas@email.com,+55 81 7754 9714,2025-03-28,Camisetas Series,Video 2,Facebook,Carrinho,2025-03-31,Em negociação,54
+166,lead_167,Yago Novais,yago.novais@email.com,71 4228-9801,2025-04-26,Blusas Inverno,Carrossel 1,Email,Comprou,2025-04-26,Ganhou,80
+167,lead_168,Gael Henrique da Mata,gael.henrique.da.mata@email.com,51 8858 2604,2025-03-16,Camisetas Series,Imagem 2,Facebook,Visita,2025-03-25,Perdido,40
+168,lead_169,Bianca Barbosa,bianca.barbosa@email.com,+55 (081) 4311 5734,2025-04-02,Camisetas Filmes,Video 1,Google,Visita,2025-04-08,Perdido,39
+169,lead_170,Kaique Cunha,kaique.cunha@email.com,(041) 4751-7179,2025-04-20,Camisetas Series,Imagem 2,Tráfego Direto,Comprou,2025-04-27,Ganhou,92
+170,lead_171,Sr. Ravy Guerra,sr..ravy.guerra@email.com,(021) 8506 6321,2025-04-24,Camisetas Filmes,Video 3,Google,Carrinho,2025-04-26,Perdido,55
+171,lead_172,Sr. Antônio Abreu,sr..antonio.abreu@email.com,+55 21 6808 4585,2025-04-11,Camisetas Filmes,Imagem 1,Tráfego Direto,Visita,2025-04-12,Novo,58
+172,lead_173,Diogo Novaes,diogo.novaes@email.com,+55 (051) 2207 7467,2025-04-18,Camisetas Filmes,Video 3,Facebook,Checkout,2025-04-20,Perdido,67
+173,lead_174,Paulo Ribeiro,paulo.ribeiro@email.com,+55 (071) 7435 3016,2025-03-20,Camisetas Filmes,Carrossel 2,Instagram,Carrinho,2025-03-28,Em negociação,43
+174,lead_175,João Felipe Siqueira,joao.felipe.siqueira@email.com,+55 11 7193-1700,2025-04-11,Camisetas Series,Imagem 2,Email,Checkout,2025-04-12,Perdido,89
+175,lead_176,Nicolas Machado,nicolas.machado@email.com,+55 31 8963 8491,2025-03-28,Camisetas Filmes,Carrossel 2,Facebook,Carrinho,2025-04-04,Em negociação,48
+176,lead_177,Camila Gomes,camila.gomes@email.com,(071) 3521-7983,2025-04-27,Camisetas Series,Imagem 3,Instagram,Checkout,2025-05-04,Perdido,90
+177,lead_178,Sra. Bianca Gomes,sra..bianca.gomes@email.com,+55 21 0604-3791,2025-04-22,Camisetas Filmes,Video 3,Email,Comprou,2025-04-29,Ganhou,97
+178,lead_179,Maria Alice Pimenta,maria.alice.pimenta@email.com,+55 (061) 4872 3289,2025-02-28,Blusas Inverno,Carrossel 1,Google,Comprou,2025-03-07,Ganhou,95
+179,lead_180,Isabella Rodrigues,isabella.rodrigues@email.com,0900-798-4600,2025-03-17,Camisetas Series,Video 2,Instagram,Carrinho,2025-03-27,Em negociação,55
+180,lead_181,Lunna Guerra,lunna.guerra@email.com,61 9968-2078,2025-03-29,Camisetas Series,Video 2,Email,Carrinho,2025-04-05,Em negociação,73
+181,lead_182,Vitória Peixoto,vitoria.peixoto@email.com,(021) 6051-4356,2025-03-05,Camisetas Series,Imagem 2,Google,Carrinho,2025-03-12,Em negociação,57
+182,lead_183,Danilo Moreira,danilo.moreira@email.com,(061) 4545 0216,2025-03-18,Camisetas Filmes,Video 1,Instagram,Carrinho,2025-03-21,Em negociação,58
+183,lead_184,Maria Clara Marques,maria.clara.marques@email.com,+55 61 6188-7590,2025-03-10,Camisetas Series,Video 2,Google,Carrinho,2025-03-15,Perdido,61
+184,lead_185,Isadora Novais,isadora.novais@email.com,31 7204-6170,2025-04-12,Camisetas Filmes,Video 1,Google,Carrinho,2025-04-14,Perdido,48
+185,lead_186,Cecília Carvalho,cecilia.carvalho@email.com,+55 (051) 5765-9156,2025-04-05,Camisetas Series,Imagem 2,Facebook,Visita,2025-04-07,Novo,34
+186,lead_187,Ester Dias,ester.dias@email.com,(021) 7439-8015,2025-03-11,Camisetas Series,Imagem 2,Google,Carrinho,2025-03-17,Perdido,44
+187,lead_188,Srta. Luísa da Mota,srta..luisa.da.mota@email.com,21 0087 5283,2025-04-14,Camisetas Filmes,Video 3,Instagram,Visita,2025-04-22,Novo,31
+188,lead_189,Srta. Laís Porto,srta..lais.porto@email.com,+55 (071) 3982-4090,2025-04-25,Camisetas Filmes,Carrossel 2,Facebook,Carrinho,2025-04-25,Em negociação,66
+189,lead_190,Léo Garcia,leo.garcia@email.com,84 0246 9925,2025-03-06,Camisetas Series,Imagem 2,Facebook,Comprou,2025-03-12,Ganhou,93
+190,lead_191,Luiza Cavalcanti,luiza.cavalcanti@email.com,0300-420-8421,2025-04-27,Camisetas Filmes,Imagem 1,Facebook,Checkout,2025-05-06,Em negociação,87
+191,lead_192,Brayan Cavalcanti,brayan.cavalcanti@email.com,41 6513-8298,2025-03-15,Camisetas Filmes,Video 3,Google,Checkout,2025-03-15,Perdido,75
+192,lead_193,Alícia Nascimento,alicia.nascimento@email.com,+55 11 0598 5911,2025-03-29,Camisetas Series,Imagem 3,Instagram,Comprou,2025-04-04,Ganhou,89
+193,lead_194,Sr. Asafe Moraes,sr..asafe.moraes@email.com,+55 84 4260-5230,2025-03-01,Camisetas Filmes,Video 3,Instagram,Carrinho,2025-03-09,Perdido,74
+194,lead_195,Stephany Rodrigues,stephany.rodrigues@email.com,(031) 5299-8077,2025-04-24,Camisetas Series,Imagem 2,Facebook,Visita,2025-04-27,Novo,41
+195,lead_196,Cauê Siqueira,caue.siqueira@email.com,+55 (081) 4320-6800,2025-03-09,Camisetas Series,Video 2,Instagram,Visita,2025-03-16,Novo,37
+196,lead_197,Yan Gonçalves,yan.goncalves@email.com,(071) 5412-2295,2025-04-01,Camisetas Filmes,Imagem 1,Instagram,Visita,2025-04-06,Novo,34
+197,lead_198,Rhavi Correia,rhavi.correia@email.com,61 3031 3518,2025-03-13,Camisetas Filmes,Video 3,Google,Visita,2025-03-15,Novo,56
+198,lead_199,Davi Lucas Marques,davi.lucas.marques@email.com,71 9705 1024,2025-03-01,Camisetas Filmes,Carrossel 2,Tráfego Direto,Carrinho,2025-03-10,Perdido,48
+199,lead_200,Srta. Larissa Lopes,srta..larissa.lopes@email.com,+55 81 9605 2413,2025-03-25,Camisetas Filmes,Imagem 1,Instagram,Visita,2025-04-03,Novo,35
+200,lead_201,Ian Cunha,ian.cunha@email.com,+55 (071) 8479-4354,2025-04-05,Camisetas Filmes,Imagem 1,Instagram,Visita,2025-04-15,Novo,15
+201,lead_202,Maria Luísa Teixeira,maria.luisa.teixeira@email.com,+55 (041) 3146-3314,2025-03-25,Camisetas Filmes,Video 3,Instagram,Visita,2025-04-01,Novo,18
+202,lead_203,Maria Helena Cirino,maria.helena.cirino@email.com,(084) 0858-4775,2025-04-06,Blusas Inverno,Carrossel 1,Instagram,Visita,2025-04-10,Novo,13
+203,lead_204,Luiz Otávio Gonçalves,luiz.otavio.goncalves@email.com,(011) 8374-7894,2025-03-17,Camisetas Filmes,Video 3,Google,Visita,2025-03-20,Perdido,30
+204,lead_205,João Aparecida,joao.aparecida@email.com,41 4677-1515,2025-03-02,Camisetas Filmes,Carrossel 2,Google,Visita,2025-03-07,Perdido,30
+205,lead_206,Thales Nunes,thales.nunes@email.com,(084) 2083 9935,2025-03-05,Camisetas Filmes,Video 3,Tráfego Direto,Visita,2025-03-11,Novo,27
+206,lead_207,Pedro Miguel da Mota,pedro.miguel.da.mota@email.com,+55 (081) 9997 2619,2025-03-01,Camisetas Series,Video 2,Tráfego Direto,Checkout,2025-03-02,Em negociação,86
+207,lead_208,Davi Lucas da Luz,davi.lucas.da.luz@email.com,84 0018-1766,2025-03-08,Camisetas Filmes,Carrossel 2,Instagram,Visita,2025-03-16,Novo,11
+208,lead_209,Emanuel Pereira,emanuel.pereira@email.com,(061) 6160-4050,2025-03-30,Camisetas Filmes,Imagem 1,Google,Visita,2025-04-02,Novo,32
+209,lead_210,Kaique Marques,kaique.marques@email.com,+55 51 0685 4160,2025-04-28,Camisetas Filmes,Video 1,Google,Visita,2025-05-08,Novo,59
+210,lead_211,Dr. André Fogaça,dr..andre.fogaca@email.com,84 9519-6563,2025-02-28,Camisetas Filmes,Imagem 1,Google,Checkout,2025-02-28,Em negociação,84
+211,lead_212,Hadassa da Cruz,hadassa.da.cruz@email.com,0300 411 1545,2025-03-07,Camisetas Series,Imagem 2,Facebook,Visita,2025-03-07,Novo,22
+212,lead_213,Luan Correia,luan.correia@email.com,+55 (061) 6686 0313,2025-03-28,Blusas Inverno,Carrossel 1,Facebook,Visita,2025-03-30,Novo,25
+213,lead_214,Ana Laura Costa,ana.laura.costa@email.com,0500-799-9931,2025-03-19,Camisetas Filmes,Carrossel 2,Facebook,Visita,2025-03-20,Novo,52
+214,lead_215,Caleb Pastor,caleb.pastor@email.com,+55 (021) 3744-5891,2025-04-28,Camisetas Series,Imagem 2,Instagram,Visita,2025-05-02,Novo,39
+215,lead_216,Sophie Gomes,sophie.gomes@email.com,0500-041-1370,2025-04-16,Camisetas Series,Imagem 3,Tráfego Direto,Carrinho,2025-04-25,Perdido,50
+216,lead_217,Antonella Pinto,antonella.pinto@email.com,+55 (011) 2553 8143,2025-03-09,Camisetas Filmes,Video 1,Google,Carrinho,2025-03-13,Em negociação,50
+217,lead_218,Raul Cunha,raul.cunha@email.com,41 3598 5051,2025-04-14,Camisetas Filmes,Video 1,Facebook,Carrinho,2025-04-14,Perdido,77
+218,lead_219,Dr. João Gabriel Souza,dr..joao.gabriel.souza@email.com,+55 (081) 3739 4697,2025-04-23,Camisetas Series,Video 2,Facebook,Visita,2025-05-03,Novo,46
+219,lead_220,Dra. Valentina Moura,dra..valentina.moura@email.com,+55 (084) 9558 2746,2025-03-31,Camisetas Filmes,Video 3,Facebook,Carrinho,2025-04-03,Em negociação,65
+220,lead_221,Lorenzo Montenegro,lorenzo.montenegro@email.com,(041) 3605 5635,2025-03-03,Camisetas Filmes,Video 1,Facebook,Comprou,2025-03-13,Ganhou,98
+221,lead_222,Caio Dias,caio.dias@email.com,61 8607 7745,2025-03-11,Camisetas Series,Imagem 2,Instagram,Visita,2025-03-15,Novo,16
+222,lead_223,Aurora Oliveira,aurora.oliveira@email.com,+55 71 5607 8715,2025-04-18,Camisetas Filmes,Video 1,Instagram,Visita,2025-04-27,Novo,60
+223,lead_224,Isadora Rios,isadora.rios@email.com,+55 (021) 5340 1112,2025-02-28,Camisetas Filmes,Imagem 1,Instagram,Visita,2025-03-08,Perdido,32
+224,lead_225,Sophie Siqueira,sophie.siqueira@email.com,+55 51 5959 1323,2025-03-03,Camisetas Filmes,Video 3,Instagram,Carrinho,2025-03-04,Em negociação,63
+225,lead_226,Daniel Pinto,daniel.pinto@email.com,0500-531-8482,2025-04-22,Camisetas Series,Imagem 3,Email,Visita,2025-04-28,Novo,10
+226,lead_227,Manuella Cassiano,manuella.cassiano@email.com,+55 71 6233-4010,2025-03-20,Camisetas Filmes,Carrossel 2,Email,Checkout,2025-03-26,Perdido,63
+227,lead_228,Nicole Jesus,nicole.jesus@email.com,(061) 4695 6341,2025-03-06,Camisetas Series,Imagem 3,Instagram,Visita,2025-03-13,Novo,50
+228,lead_229,Fernando Pastor,fernando.pastor@email.com,(031) 6783-7191,2025-03-08,Blusas Inverno,Carrossel 1,Tráfego Direto,Carrinho,2025-03-10,Em negociação,67
+229,lead_230,Helena Almeida,helena.almeida@email.com,+55 (084) 1817 4746,2025-03-14,Camisetas Series,Video 2,Instagram,Checkout,2025-03-22,Em negociação,79
+230,lead_231,Luiza Sampaio,luiza.sampaio@email.com,0500 809 9439,2025-04-12,Camisetas Filmes,Carrossel 2,Facebook,Carrinho,2025-04-18,Em negociação,69
+231,lead_232,Maya Rocha,maya.rocha@email.com,21 6043 5168,2025-03-04,Camisetas Series,Video 2,Instagram,Visita,2025-03-07,Novo,30
+232,lead_233,Aurora Viana,aurora.viana@email.com,(084) 5432-3770,2025-04-03,Camisetas Filmes,Video 1,Instagram,Carrinho,2025-04-10,Em negociação,57
+233,lead_234,Benicio Pinto,benicio.pinto@email.com,+55 71 0194-3923,2025-03-29,Camisetas Series,Imagem 2,Facebook,Carrinho,2025-04-07,Em negociação,69
+234,lead_235,Marina Pacheco,marina.pacheco@email.com,0900-724-8396,2025-03-10,Camisetas Filmes,Video 3,Facebook,Visita,2025-03-10,Novo,31
+235,lead_236,Srta. Maria Luísa Moraes,srta..maria.luisa.moraes@email.com,21 2915-5452,2025-04-03,Camisetas Filmes,Carrossel 2,Email,Visita,2025-04-05,Perdido,30
+236,lead_237,Thales Araújo,thales.araujo@email.com,+55 21 5343 1115,2025-03-30,Camisetas Filmes,Carrossel 2,Instagram,Carrinho,2025-04-04,Perdido,53
+237,lead_238,Emanuel Farias,emanuel.farias@email.com,81 3018 6264,2025-04-01,Camisetas Series,Video 2,Google,Carrinho,2025-04-05,Em negociação,61
+238,lead_239,Bella Moreira,bella.moreira@email.com,+55 31 9215 7654,2025-04-06,Camisetas Series,Video 2,Facebook,Comprou,2025-04-06,Ganhou,97
+239,lead_240,Isabela Barbosa,isabela.barbosa@email.com,31 6223 6736,2025-04-19,Camisetas Series,Imagem 2,Email,Visita,2025-04-22,Perdido,15
+240,lead_241,Bernardo Barbosa,bernardo.barbosa@email.com,61 1729 1609,2025-04-26,Camisetas Filmes,Video 3,Tráfego Direto,Visita,2025-05-04,Novo,41
+241,lead_242,Sr. Valentim Sales,sr..valentim.sales@email.com,11 2815 2568,2025-03-01,Camisetas Series,Imagem 2,Google,Carrinho,2025-03-11,Perdido,70
+242,lead_243,Miguel Pastor,miguel.pastor@email.com,+55 51 5566 1234,2025-04-13,Camisetas Filmes,Carrossel 2,Instagram,Checkout,2025-04-13,Em negociação,74
+243,lead_244,Aylla Castro,aylla.castro@email.com,(081) 2643 3922,2025-03-19,Camisetas Filmes,Video 1,Instagram,Visita,2025-03-22,Perdido,28
+244,lead_245,Henrique Jesus,henrique.jesus@email.com,71 3903 6249,2025-03-03,Camisetas Filmes,Video 3,Google,Carrinho,2025-03-07,Em negociação,55
+245,lead_246,Luiz Fernando Martins,luiz.fernando.martins@email.com,+55 (084) 2592 0964,2025-03-12,Camisetas Series,Imagem 3,Tráfego Direto,Visita,2025-03-20,Perdido,40
+246,lead_247,Maria Julia Sales,maria.julia.sales@email.com,(081) 0384-1896,2025-04-02,Camisetas Series,Imagem 3,Facebook,Visita,2025-04-10,Novo,37
+247,lead_248,Dra. Giovanna Moreira,dra..giovanna.moreira@email.com,(041) 8931 5644,2025-04-18,Camisetas Series,Imagem 3,Facebook,Checkout,2025-04-25,Em negociação,71
+248,lead_249,Otto Vargas,otto.vargas@email.com,(084) 7760 5523,2025-03-26,Camisetas Series,Video 2,Instagram,Checkout,2025-03-30,Em negociação,69
+249,lead_250,Lívia da Cunha,livia.da.cunha@email.com,+55 (051) 6675-5537,2025-04-21,Camisetas Series,Imagem 2,Facebook,Comprou,2025-04-24,Ganhou,83
+250,lead_251,Maysa Araújo,maysa.araujo@email.com,(051) 3191 8106,2025-03-17,Camisetas Series,Imagem 3,Instagram,Comprou,2025-03-25,Ganhou,83
+251,lead_252,Lucca Sampaio,lucca.sampaio@email.com,(031) 2987 9677,2025-03-16,Blusas Inverno,Carrossel 1,Facebook,Visita,2025-03-19,Perdido,22
+252,lead_253,Maria Fernanda Mendonça,maria.fernanda.mendonca@email.com,+55 71 8101 2882,2025-03-27,Camisetas Filmes,Carrossel 2,Google,Carrinho,2025-04-05,Perdido,57
+253,lead_254,Arthur Gabriel Ramos,arthur.gabriel.ramos@email.com,+55 11 4929 9530,2025-04-06,Camisetas Series,Video 2,Google,Visita,2025-04-09,Novo,16
+254,lead_255,Bárbara Nunes,barbara.nunes@email.com,21 1736 6026,2025-03-13,Camisetas Series,Video 2,Instagram,Checkout,2025-03-18,Em negociação,67
+255,lead_256,Sr. Marcelo Correia,sr..marcelo.correia@email.com,+55 21 2910-2908,2025-03-20,Blusas Inverno,Carrossel 1,Google,Checkout,2025-03-20,Perdido,69
+256,lead_257,Gael Henrique Ramos,gael.henrique.ramos@email.com,71 1901 8893,2025-03-18,Blusas Inverno,Carrossel 1,Facebook,Checkout,2025-03-18,Em negociação,68
+257,lead_258,Sra. Maria Vitória Moreira,sra..maria.vitoria.moreira@email.com,0500 560 5063,2025-03-23,Camisetas Filmes,Imagem 1,Tráfego Direto,Visita,2025-03-27,Novo,45
+258,lead_259,Thomas Costela,thomas.costela@email.com,(084) 9527 0674,2025-03-08,Blusas Inverno,Carrossel 1,Google,Visita,2025-03-15,Novo,50
+259,lead_260,Sr. Lorenzo Leão,sr..lorenzo.leao@email.com,0500 533 6191,2025-03-03,Camisetas Filmes,Video 1,Google,Checkout,2025-03-03,Perdido,87
+260,lead_261,Anthony Gabriel Sampaio,anthony.gabriel.sampaio@email.com,+55 (031) 3719-1798,2025-04-11,Camisetas Series,Video 2,Google,Carrinho,2025-04-18,Em negociação,70
+261,lead_262,Leandro Pastor,leandro.pastor@email.com,+55 (031) 9374-2008,2025-04-24,Camisetas Filmes,Carrossel 2,Facebook,Visita,2025-04-26,Perdido,31
+262,lead_263,Lavínia Macedo,lavinia.macedo@email.com,+55 41 5552 3553,2025-04-07,Camisetas Filmes,Imagem 1,Google,Carrinho,2025-04-14,Em negociação,56
+263,lead_264,Arthur Gabriel Pimenta,arthur.gabriel.pimenta@email.com,+55 41 6243 3058,2025-02-28,Camisetas Filmes,Video 1,Tráfego Direto,Visita,2025-03-06,Novo,14
+264,lead_265,Sr. Davi Lucca Melo,sr..davi.lucca.melo@email.com,+55 (061) 9861-9149,2025-04-05,Camisetas Filmes,Carrossel 2,Facebook,Carrinho,2025-04-14,Em negociação,44
+265,lead_266,Sr. Nicolas Casa Grande,sr..nicolas.casa.grande@email.com,+55 31 3362-0095,2025-03-13,Camisetas Filmes,Imagem 1,Tráfego Direto,Comprou,2025-03-15,Ganhou,84
+266,lead_267,Gabrielly Albuquerque,gabrielly.albuquerque@email.com,+55 41 1765-7554,2025-04-07,Camisetas Series,Video 2,Google,Comprou,2025-04-10,Ganhou,82
+267,lead_268,Maitê Vargas,maite.vargas@email.com,+55 (021) 0268 4178,2025-04-02,Camisetas Filmes,Video 1,Instagram,Carrinho,2025-04-08,Perdido,75
+268,lead_269,Maria Liz Gomes,maria.liz.gomes@email.com,11 0958-8724,2025-03-06,Camisetas Series,Imagem 2,Facebook,Checkout,2025-03-14,Perdido,84
+269,lead_270,Henry Gabriel da Mata,henry.gabriel.da.mata@email.com,+55 (071) 5956-5252,2025-03-07,Camisetas Filmes,Video 3,Tráfego Direto,Carrinho,2025-03-14,Em negociação,68
+270,lead_271,João Miguel Pimenta,joao.miguel.pimenta@email.com,81 3190 5061,2025-03-07,Camisetas Series,Video 2,Email,Checkout,2025-03-16,Em negociação,87
+271,lead_272,Valentim Caldeira,valentim.caldeira@email.com,+55 81 6148-2429,2025-03-28,Camisetas Filmes,Video 3,Tráfego Direto,Checkout,2025-04-06,Em negociação,69
+272,lead_273,Srta. Maria Ribeiro,srta..maria.ribeiro@email.com,(031) 9689 3108,2025-04-10,Camisetas Filmes,Imagem 1,Google,Visita,2025-04-11,Novo,49
+273,lead_274,Noah Machado,noah.machado@email.com,+55 (051) 3419 8341,2025-03-29,Camisetas Series,Imagem 2,Facebook,Checkout,2025-04-01,Em negociação,80
+274,lead_275,Yago Vasconcelos,yago.vasconcelos@email.com,(041) 3597-6203,2025-04-25,Camisetas Series,Video 2,Facebook,Visita,2025-04-26,Novo,52
+275,lead_276,Allana Moura,allana.moura@email.com,(061) 9428-1135,2025-04-26,Blusas Inverno,Carrossel 1,Tráfego Direto,Visita,2025-04-28,Novo,25
+276,lead_277,Henrique Cassiano,henrique.cassiano@email.com,+55 (061) 3057 2220,2025-04-28,Camisetas Filmes,Video 1,Google,Carrinho,2025-04-28,Em negociação,50
+277,lead_278,Vinicius Vieira,vinicius.vieira@email.com,31 9017 3106,2025-03-19,Camisetas Filmes,Video 3,Facebook,Visita,2025-03-28,Novo,38
+278,lead_279,Dra. Luara Garcia,dra..luara.garcia@email.com,+55 11 3479 4943,2025-04-06,Camisetas Filmes,Carrossel 2,Facebook,Carrinho,2025-04-06,Perdido,58
+279,lead_280,Maria Eduarda Cavalcanti,maria.eduarda.cavalcanti@email.com,+55 31 3868-8273,2025-03-25,Camisetas Series,Imagem 2,Facebook,Carrinho,2025-03-29,Perdido,58
+280,lead_281,Hadassa Porto,hadassa.porto@email.com,(084) 7980-8171,2025-04-06,Camisetas Filmes,Carrossel 2,Instagram,Carrinho,2025-04-16,Em negociação,44
+281,lead_282,Maria Sophia Vasconcelos,maria.sophia.vasconcelos@email.com,84 2154 9712,2025-04-03,Camisetas Series,Imagem 2,Email,Visita,2025-04-13,Novo,26
+282,lead_283,Luana Rocha,luana.rocha@email.com,+55 (021) 2824-0066,2025-04-20,Camisetas Series,Imagem 2,Instagram,Comprou,2025-04-21,Ganhou,93
+283,lead_284,Sr. Davi Miguel Monteiro,sr..davi.miguel.monteiro@email.com,+55 (021) 9131-5543,2025-04-15,Camisetas Series,Imagem 2,Google,Visita,2025-04-17,Perdido,51
+284,lead_285,Luiz Henrique Aragão,luiz.henrique.aragao@email.com,+55 41 8596-0098,2025-03-02,Camisetas Series,Video 2,Instagram,Checkout,2025-03-04,Em negociação,86
+285,lead_286,Maria Cecília Lima,maria.cecilia.lima@email.com,71 2770 1323,2025-04-25,Camisetas Filmes,Video 1,Instagram,Visita,2025-04-27,Novo,13
+286,lead_287,Yuri Jesus,yuri.jesus@email.com,0800 950 6862,2025-02-28,Camisetas Series,Video 2,Google,Visita,2025-03-09,Perdido,48
+287,lead_288,Rafael Moraes,rafael.moraes@email.com,(011) 2596-8160,2025-04-15,Camisetas Series,Video 2,Facebook,Carrinho,2025-04-16,Em negociação,68
+288,lead_289,João Miguel da Cunha,joao.miguel.da.cunha@email.com,61 5533-1304,2025-03-15,Camisetas Filmes,Carrossel 2,Facebook,Carrinho,2025-03-21,Em negociação,59
+289,lead_290,Luiz Miguel Rocha,luiz.miguel.rocha@email.com,41 3024 3019,2025-04-16,Camisetas Series,Video 2,Instagram,Checkout,2025-04-24,Perdido,76
+290,lead_291,Alana Teixeira,alana.teixeira@email.com,+55 51 7961 8338,2025-04-25,Camisetas Filmes,Carrossel 2,Facebook,Visita,2025-04-26,Novo,38
+291,lead_292,Dra. Stella Gomes,dra..stella.gomes@email.com,+55 (084) 1393-7096,2025-04-02,Camisetas Filmes,Imagem 1,Facebook,Visita,2025-04-07,Novo,37
+292,lead_293,João Gabriel Fogaça,joao.gabriel.fogaca@email.com,0900-814-2945,2025-04-16,Camisetas Series,Video 2,Google,Carrinho,2025-04-17,Em negociação,41
+293,lead_294,Heloisa Moura,heloisa.moura@email.com,(051) 0619-1824,2025-03-18,Camisetas Series,Imagem 2,Instagram,Visita,2025-03-27,Novo,53
+294,lead_295,Ana Cecília Pereira,ana.cecilia.pereira@email.com,+55 (021) 1640-6985,2025-04-05,Camisetas Filmes,Imagem 1,Instagram,Visita,2025-04-15,Perdido,58
+295,lead_296,Gael Henrique Araújo,gael.henrique.araujo@email.com,+55 (061) 8222 0451,2025-04-23,Camisetas Series,Video 2,Instagram,Carrinho,2025-04-23,Em negociação,76
+296,lead_297,Anthony Martins,anthony.martins@email.com,+55 61 1766 6081,2025-04-08,Blusas Inverno,Carrossel 1,Instagram,Visita,2025-04-16,Perdido,40
+297,lead_298,Cauã Novais,caua.novais@email.com,(021) 3163 6796,2025-03-12,Camisetas Filmes,Carrossel 2,Tráfego Direto,Checkout,2025-03-16,Em negociação,89
+298,lead_299,Emanuelly Moura,emanuelly.moura@email.com,81 6067 9512,2025-03-17,Blusas Inverno,Carrossel 1,Google,Visita,2025-03-23,Novo,47
+299,lead_300,Ana Julia Costa,ana.julia.costa@email.com,(071) 9554-9008,2025-04-04,Camisetas Filmes,Carrossel 2,Tráfego Direto,Visita,2025-04-11,Novo,15

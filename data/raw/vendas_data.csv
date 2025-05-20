@@ -1,0 +1,51 @@
+,sale_id,lead_id,nome_cliente,email_cliente,data_venda,produto,valor_total,quantidade,meio_pagamento,status_pagamento,campanha_origem,utm_source,utm_campaign,canal_origem
+0,789ffc09-f841-4a84-8fdd-4e264b7ad40b,lead_1,Dr. Thomas Fogaça,dr..thomas.fogaca@email.com,2025-04-28,Camiseta,337.74,1,Cartão,Aprovado,Camisetas Filmes,source_5,campaign_2,Facebook
+1,2ac54a56-4156-4adf-bfed-71f507d1e12c,lead_12,Sra. Laís Silveira,sra..lais.silveira@email.com,2025-04-18,Camiseta,150.44,1,Pix,Aprovado,Camisetas Series,source_9,campaign_1,Tráfego Direto
+2,1916721f-c748-4d89-bb07-068f7e216675,lead_15,Maria Sophia da Mota,maria.sophia.da.mota@email.com,2025-04-19,Camiseta,315.72,1,Cartão,Aprovado,Camisetas Series,source_1,campaign_1,Instagram
+3,3e68705e-dae7-4cd4-9a8a-519a1eb00208,lead_18,Larissa Castro,larissa.castro@email.com,2025-04-29,Camiseta,148.39,5,Cartão,Aprovado,Camisetas Series,source_10,campaign_1,Google
+4,1ac0e5a6-4e87-42ff-a8e5-07fd9fe453f4,lead_19,Mathias Borges,mathias.borges@email.com,2025-04-10,Camiseta,302.56,5,Cartão,Aprovado,Camisetas Series,source_7,campaign_2,Google
+5,6221e9c0-cb68-4456-b81a-9aa0149e66bf,lead_38,Renan Sales,renan.sales@email.com,2025-04-18,Camiseta,252.14,3,Cartão,Aprovado,Camisetas Filmes,source_1,campaign_2,Instagram
+6,4b85835f-09b8-490b-8694-1692ddabc390,lead_47,Théo Monteiro,theo.monteiro@email.com,2025-04-26,Camiseta,364.16,3,Pix,Aprovado,Camisetas Series,source_5,campaign_2,Facebook
+7,8e3b702d-9e62-4a63-8f9e-affe43ef0f0d,lead_52,Beatriz Montenegro,beatriz.montenegro@email.com,2025-04-08,Camiseta,146.89,3,Cartão,Aprovado,Camisetas Series,source_2,campaign_1,Facebook
+8,466a059f-c017-4b85-a6a7-fda23ee11a94,lead_60,Maria Júlia Aragão,maria.julia.aragao@email.com,2025-04-20,Camiseta,220.97,3,Cartão,Aprovado,Camisetas Filmes,source_6,campaign_5,Facebook
+9,11d3436c-cd23-4ea6-810e-4ef232302096,lead_76,Henry Cavalcante,henry.cavalcante@email.com,2025-04-22,Camiseta,169.03,1,Cartão,Aprovado,Camisetas Filmes,source_8,campaign_5,Instagram
+10,d5404ff9-eb84-4689-9c49-f85c7f3721ac,lead_81,Vitor Nunes,vitor.nunes@email.com,2025-04-25,Camiseta,106.17,4,Cartão,Aprovado,Camisetas Series,source_2,campaign_5,Tráfego Direto
+11,7e1fddbc-9691-4bd0-9cc0-e38e5086977d,lead_83,João Vitor Vasconcelos,joao.vitor.vasconcelos@email.com,2025-04-08,Camiseta,181.93,5,Cartão,Aprovado,Camisetas Filmes,source_6,campaign_5,Facebook
+12,30060713-1dea-40df-bd1a-62efa6960505,lead_86,Emanuel Castro,emanuel.castro@email.com,2025-04-02,Camiseta,136.53,1,Cartão,Aprovado,Camisetas Filmes,source_1,campaign_2,Google
+13,9a016f9b-30a9-4cae-b365-051918d1d719,lead_105,Luana Martins,luana.martins@email.com,2025-03-21,Camiseta,397.88,1,Cartão,Aprovado,Camisetas Filmes,source_4,campaign_1,Instagram
+14,fb389234-48a4-4924-8305-f73fd32a55f0,lead_105,Luana Martins,luana.martins@email.com,2025-03-20,Camiseta,221.06,4,Cartão,Aprovado,Camisetas Filmes,source_6,campaign_2,Instagram
+15,74a7b8d4-a1c8-44fe-baf9-6e41102da70b,lead_120,Luiz Miguel Guerra,luiz.miguel.guerra@email.com,2025-04-19,Camiseta,216.58,2,Cartão,Aprovado,Camisetas Filmes,source_5,campaign_1,Google
+16,41edc12a-d71d-4428-9b14-8df8fd8c3b5e,lead_122,Laís Aparecida,lais.aparecida@email.com,2025-04-24,Camiseta,324.11,2,Cartão,Aprovado,Camisetas Filmes,source_9,campaign_2,Facebook
+17,8a2c68e8-f606-4ba1-bc76-92fae9a41c34,lead_123,Sr. Liam Correia,sr..liam.correia@email.com,2025-03-19,Camiseta,123.53,4,Boleto,Aprovado,Camisetas Filmes,source_5,campaign_5,Email
+18,6222b410-4304-4311-ac7b-5bf8783c4ffd,lead_138,Ana Cecília Siqueira,ana.cecilia.siqueira@email.com,2025-04-24,Camiseta,148.83,3,Cartão,Aprovado,Camisetas Series,source_1,campaign_2,Email
+19,f2904381-be98-4d79-bb83-ba3d944cdf77,lead_149,Théo Jesus,theo.jesus@email.com,2025-03-30,Camiseta,419.81,3,Cartão,Aprovado,Camisetas Series,source_7,campaign_3,Tráfego Direto
+20,bb08ea0c-26af-4c48-8ff6-4eaf8e1871d6,lead_157,Mariane Cassiano,mariane.cassiano@email.com,2025-04-19,Camiseta,79.78,5,Cartão,Aprovado,Camisetas Filmes,source_6,campaign_2,Instagram
+21,5cacca1d-0cce-42d0-97d8-3d9c2d19986e,lead_159,Augusto Aragão,augusto.aragao@email.com,2025-04-14,Camiseta,344.95,4,Cartão,Aprovado,Camisetas Filmes,source_8,campaign_2,Facebook
+22,f96a39a9-6492-4075-8e0f-3da9884945cd,lead_160,Zoe Sales,zoe.sales@email.com,2025-04-11,Camiseta,169.2,2,Cartão,Aprovado,Camisetas Series,source_9,campaign_5,Google
+23,54173b57-9e9c-456c-8df7-2b55f1d5a784,lead_160,Zoe Sales,zoe.sales@email.com,2025-04-11,Camiseta,168.23,5,Cartão,Aprovado,Camisetas Series,source_7,campaign_5,Google
+24,d7b26941-162d-40b6-9987-6e281d7d89b0,lead_167,Yago Novais,yago.novais@email.com,2025-04-28,Blusa,229.73,2,Cartão,Aprovado,Blusas Inverno,source_3,campaign_5,Email
+25,e22123a2-d2a3-4c45-a3c6-a33b71a14fb9,lead_170,Kaique Cunha,kaique.cunha@email.com,2025-04-23,Camiseta,272.08,1,Boleto,Aprovado,Camisetas Series,source_2,campaign_2,Tráfego Direto
+26,870e3165-5c2e-4121-95f9-630a4bcb4894,lead_178,Sra. Bianca Gomes,sra..bianca.gomes@email.com,2025-04-28,Camiseta,332.35,4,Pix,Aprovado,Camisetas Filmes,source_10,campaign_1,Email
+27,2c6c56a5-7f0e-4995-9b39-eb6f96720528,lead_178,Sra. Bianca Gomes,sra..bianca.gomes@email.com,2025-04-25,Camiseta,223.15,5,Cartão,Aprovado,Camisetas Filmes,source_8,campaign_5,Email
+28,5cf81f5c-df68-4ecd-807b-c52365f4369f,lead_179,Maria Alice Pimenta,maria.alice.pimenta@email.com,2025-04-28,Blusa,163.14,5,Cartão,Aprovado,Blusas Inverno,source_1,campaign_1,Google
+29,6a167f5d-22ef-4fb7-a314-114c6a6aef0a,lead_190,Léo Garcia,leo.garcia@email.com,2025-03-28,Camiseta,356.77,5,Cartão,Aprovado,Camisetas Series,source_5,campaign_3,Facebook
+30,d77d1fdc-7711-4be7-ae3c-f49c308d6f83,lead_190,Léo Garcia,leo.garcia@email.com,2025-04-08,Camiseta,100.2,4,Cartão,Aprovado,Camisetas Series,source_3,campaign_4,Facebook
+31,4715eb52-0a7a-4445-afa2-06aeec58afec,lead_193,Alícia Nascimento,alicia.nascimento@email.com,2025-04-16,Camiseta,51.46,3,Pix,Aprovado,Camisetas Series,source_9,campaign_2,Instagram
+32,0c323801-60b6-45a7-a3b7-31e9aad68e9e,lead_221,Lorenzo Montenegro,lorenzo.montenegro@email.com,2025-04-19,Camiseta,278.46,1,Cartão,Aprovado,Camisetas Filmes,source_5,campaign_5,Facebook
+33,7e866b42-d4cc-4180-ae21-1f5e4e2c00e6,lead_239,Bella Moreira,bella.moreira@email.com,2025-04-10,Camiseta,324.04,2,Cartão,Aprovado,Camisetas Series,source_6,campaign_2,Facebook
+34,f63b0ea5-400a-4a9a-a9fb-fadb8b7d8c1c,lead_250,Lívia da Cunha,livia.da.cunha@email.com,2025-04-24,Camiseta,292.72,5,Cartão,Aprovado,Camisetas Series,source_1,campaign_5,Facebook
+35,9ee0f83c-be53-4fe7-9f1f-b241283d7277,lead_251,Maysa Araújo,maysa.araujo@email.com,2025-04-26,Camiseta,195.87,1,Pix,Aprovado,Camisetas Series,source_2,campaign_3,Instagram
+36,334e859c-3188-4dee-981e-abcf5f9195fc,lead_266,Sr. Nicolas Casa Grande,sr..nicolas.casa.grande@email.com,2025-03-30,Camiseta,445.42,3,Cartão,Aprovado,Camisetas Filmes,source_4,campaign_1,Tráfego Direto
+37,89cda078-c8cf-47c6-b859-a0c7ccddeb6c,lead_267,Gabrielly Albuquerque,gabrielly.albuquerque@email.com,2025-04-21,Camiseta,158.39,5,Pix,Aprovado,Camisetas Series,source_2,campaign_1,Google
+38,50426abe-c0b4-4889-a269-a273153c82f2,lead_283,Luana Rocha,luana.rocha@email.com,2025-04-25,Camiseta,379.36,1,Pix,Aprovado,Camisetas Series,source_9,campaign_2,Instagram
+39,2a2503b9-37e9-495f-b588-c979e6f1c83c,,Nathan Casa Grande,nathan.casa.grande@email.com,2025-01-18,Camiseta,107.78,4,Cartão,Pendente,Camisetas Series,source_9,campaign_2,Facebook
+40,7c5812d4-01c0-4206-8cf1-93b61c229101,lead_52,Beatriz Montenegro,beatriz.montenegro@email.com,2025-04-14,Boné,169.28,5,Cartão,Aprovado,,source_7,campaign_2,Facebook
+41,a13da274-a696-4145-840e-c72e928e1626,lead_221,Lorenzo Montenegro,lorenzo.montenegro@email.com,2024-12-14,Cinto,468.01,2,Pix,Aprovado,Acessorios,source_5,campaign_4,Facebook
+42,772ef634-103f-442a-b468-c237f5337139,lead_138,Ana Cecília Siqueira,ana.cecilia.siqueira@email.com,2025-04-23,Camiseta,497.82,3,Pix,Aprovado,Camisetas Series,source_8,campaign_5,Email
+43,eea1f95a-9c1b-40df-9d48-ff179f85be25,lead_160,Zoe Sales,zoe.sales@email.com,2025-03-07,Blusa,253.17,2,Cartão,Aprovado,Blusas Inverno,source_4,campaign_1,Google
+44,b607609d-db6f-4f67-936b-ca89ab0c5dfd,lead_157,Mariane Cassiano,mariane.cassiano@email.com,2024-11-12,Cinto,202.14,5,Cartão,Aprovado,Acessorios,source_9,campaign_2,Instagram
+45,dc66e449-e1a2-44c1-9fda-5b3fa7e280d6,lead_179,Maria Alice Pimenta,maria.alice.pimenta@email.com,2024-11-22,Blusa,314.8,1,Cartão,Aprovado,Blusas Inverno,source_2,campaign_1,Google
+46,899c3566-dbff-4ad6-9b09-d98b934b6e7b,,Igor Pacheco,igor.pacheco@email.com,2024-10-18,Camiseta,153.02,1,Cartão,Pendente,Camisetas Series,source_6,campaign_1,Google
+47,852a4e65-6753-4dc6-83e7-02364b41a11a,,Sr. Otto Borges,sr..otto.borges@email.com,2025-02-09,Blusa,281.37,3,Pix,Pendente,,source_8,campaign_2,Tráfego Direto
+48,ba350254-8a0b-499f-ae7e-da7360fb2946,lead_15,Maria Sophia da Mota,maria.sophia.da.mota@email.com,2025-01-27,Camiseta,292.66,5,Cartão,Aprovado,Camisetas Series,source_10,campaign_4,Instagram
+49,431b8c38-abf4-4b86-98a2-bcba5188aa8a,,Erick Rocha,erick.rocha@email.com,2025-03-04,Blusa,159.35,4,Cartão,Cancelado,Blusas Inverno,source_7,campaign_2,Facebook

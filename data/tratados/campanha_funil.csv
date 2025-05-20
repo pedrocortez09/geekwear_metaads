@@ -1,0 +1,13 @@
+,campanha_origem,etapa_funil,qtd_leads,percentual
+0,Blusas Inverno,Carrinho,7,20.59
+1,Blusas Inverno,Checkout,7,20.59
+2,Blusas Inverno,Comprou,3,8.82
+3,Blusas Inverno,Visita,17,50.0
+4,Camisetas Filmes,Carrinho,43,27.22
+5,Camisetas Filmes,Checkout,31,19.62
+6,Camisetas Filmes,Comprou,19,12.03
+7,Camisetas Filmes,Visita,65,41.14
+8,Camisetas Series,Carrinho,38,31.93
+9,Camisetas Series,Checkout,18,15.13
+10,Camisetas Series,Comprou,24,20.17
+11,Camisetas Series,Visita,39,32.77
