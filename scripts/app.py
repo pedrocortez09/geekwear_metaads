@@ -23,7 +23,7 @@ df_ads, df_crm = dp.tratar_datas_crm_ads(df_ads, df_crm)
 
 # Layout - Logo na sidebar
 image = Image.open("../img/logo.png")
-st.sidebar.image(image, width=70, use_container_width=True)
+st.sidebar.image(image, width=150)
 
 # ========================================== FILTROS ============================================================================
 
@@ -469,10 +469,3 @@ with tab6:
             st.warning(f"⏱ Tempo médio até a compra está elevado ({tempo_medio_compra:.0f} dias). Considere lead perdido.")
         else:
             st.info("Tempo médio até a compra está normal")
-
-
-
-
-
-
-
