@@ -1,4 +1,4 @@
-folium==0.8.0
+folium==0.13
 matplotlib==3.8.1
 matplotlib-inline==0.1.6
 numpy==1.26.0
